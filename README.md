@@ -1,2 +1,2 @@
 # QR code component
-Fontend mentor challenge 
+Challenge / Frontend Mentor
